@@ -1,3 +1,5 @@
+#GenerateTrainingImageB.py
+
 from PIL import Image
 
 width=1000
