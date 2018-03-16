@@ -1,3 +1,5 @@
+#Reverse EngineerSmallImage.py
+
 number_of_images=6
 width=10
 pixelValueShift=[]
