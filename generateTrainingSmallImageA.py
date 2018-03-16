@@ -1,3 +1,5 @@
+#generateTrainingSmallImage.py
+
 from PIL import Image
 
 width=10
