@@ -1,3 +1,5 @@
+#translateImage.py
+
 width=1000
 number_of_images=1000
 import random
